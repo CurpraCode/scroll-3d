@@ -40,7 +40,7 @@ export const Overlay = () => {
       <div class="w-screen">
         <Section opacity={opacityFirstSection}>
           <h1 className="font-semibold font-serif text-2xl">
-            Hello, I'm Wawa Sensei
+            Hello, I'm richard dub
           </h1>
           <p className="text-gray-500">Welcome to my beautiful portfolio</p>
           <p className="mt-3">I know:</p>
